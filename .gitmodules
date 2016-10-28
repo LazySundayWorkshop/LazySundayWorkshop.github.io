@@ -1,0 +1,3 @@
+[submodule "tabletop.js"]
+	path = tabletop.js
+	url = https://github.com/LazySundayWorkshop/tabletop.js.git
